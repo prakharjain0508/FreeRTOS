@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM32_HelloWorld/Third_Party&apos; to &apos;Third-Party&apos;" description="Rename resource &apos;Third_Party&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Third_Party" name="Third-Party" stamp="1605212645471" updateReferences="true"/>
+</session>

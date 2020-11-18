@@ -1,0 +1,7 @@
+15:58:53 **** Clean-only build of configuration Debug for project STM32_FreeRTOS_Led_and_Button_Using_Interrupt ****
+make -j8 clean 
+rm -rf *
+ 
+
+15:58:53 Build Finished (took 440ms)
+

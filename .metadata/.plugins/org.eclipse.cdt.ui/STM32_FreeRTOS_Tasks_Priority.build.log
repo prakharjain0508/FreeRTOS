@@ -1,0 +1,7 @@
+15:59:57 **** Clean-only build of configuration Debug for project STM32_FreeRTOS_Tasks_Priority ****
+make -j8 clean 
+rm -rf *
+ 
+
+15:59:57 Build Finished (took 271ms)
+

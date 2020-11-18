@@ -1,0 +1,7 @@
+15:59:04 **** Clean-only build of configuration Debug for project STM32_FreeRTOS_Queue_Processing ****
+make -j8 clean 
+rm -rf *
+ 
+
+15:59:04 Build Finished (took 329ms)
+
